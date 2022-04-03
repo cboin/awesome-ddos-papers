@@ -10,6 +10,7 @@ The purpose of this list is to provide a starting point for understanding the st
 * [DDoS trends](#ddos-trends)
 
 ## DDoS detection
+* [A DDoS attack detection mechanism based on protocol specific traffic features](https://dl.acm.org/doi/10.1145/2393216.2393249) - Finding out the proper subset of features which can be used for DDoS detection.
 
 ## DDoS mitigation
 
