@@ -11,7 +11,11 @@ The purpose of this list is to provide a starting point for understanding the st
 
 ## DDoS detection
 * [A DDoS attack detection mechanism based on protocol specific traffic features](https://dl.acm.org/doi/10.1145/2393216.2393249) - Finding out the proper subset of features which can be used for DDoS detection.
+* [Jaqen: A High-Performance Switch-Native Approach for Detecting and Mitigating Volumetric DDoS Attacks with Programmable Switches](https://www.usenix.org/conference/usenixsecurity21/presentation/liu-zaoxing) - A switch-native approach for volumetric DDoS defense that can run detection and mitigation functions entirely inline on switches, without relying on additional data plane hardware.
+* [Classiﬁcation of UDP Trafﬁc for DDoS Detection](https://www.usenix.org/system/files/conference/leet12/leet12-final25.pdf) - This paper presents a proportional-packet rate, and the use of this criterion to classify UDP traffic with the goal of detecting malicious addresses that launch flooding-based UDP DDoS attacks. 
 
 ## DDoS mitigation
+* [Jaqen: A High-Performance Switch-Native Approach for Detecting and Mitigating Volumetric DDoS Attacks with Programmable Switches](https://www.usenix.org/conference/usenixsecurity21/presentation/liu-zaoxing) - A switch-native approach for volumetric DDoS defense that can run detection and mitigation functions entirely inline on switches, without relying on additional data plane hardware.
 
 ## DDoS trends
+* [DDoS attacks in cloud computing: Issues, taxonomy, and future directions](https://arxiv.org/pdf/1512.08187.pdf) - This paper, present developments related to DDoS attack mitigation solutions in the cloud
